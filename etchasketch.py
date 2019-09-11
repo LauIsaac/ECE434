@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 """
-ECE434 HW1 Pat 6: Etch-a-sketch
+ECE434 HW1 Part 6: Etch-a-sketch
+
+A simple etch-a-sketch program 
 """
 
 __author__ = "Isaac Lau"
