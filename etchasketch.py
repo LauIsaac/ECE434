@@ -10,6 +10,10 @@ __version__ = "0.1.0"
 __license__ = "MIT"
 
 
+"""
+A helper function for cleanly printing a 2D list
+
+"""
 def printHelper(grid):
     for row in grid:
         for e in row:
