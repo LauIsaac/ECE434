@@ -10,3 +10,10 @@ Running the code for part 6:
 	
 	A new grid is drawn each time with the updated characters for the 
 	user's position and where the user has been 
+
+## Prof. Yoder's comments
+
+Everything looks good.  Nice etch-a-sketch, thought it's awkward typing the whole name.
+No write permission on repo.
+
+Grade:  9/10
