@@ -1,6 +1,7 @@
 Completed all parts for hw02 
 
 Buttons and LEDs
+
 	Wired up four(4) buttons and LEDs and wrote a simple python file to turn on the LEDs
 	with the buttons. GPIO pins used are listed below. Run this program by using ./buttonLED.py
 	buttonLeft  = 'P9_13' 
