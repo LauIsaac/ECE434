@@ -42,7 +42,7 @@ def clearBoard():
     global playerX
     global playerY
     n = 15
-    m = 11
+    m = 15
     board = [['-'] * m for i in range(n)]
     
     board[playerY][playerX]
@@ -84,8 +84,8 @@ def main():
 if __name__ == "__main__":
     """ This is executed when run from the command line """
      #This is the size of the board and the init player location
-    n = 11
-    m = 11
+    n = 15
+    m = 15
     playerX = 6
     playerY = 6
     
