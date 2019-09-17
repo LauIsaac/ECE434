@@ -5,7 +5,7 @@ import time
 
 buttonClear = 'P9_11'
 buttonLeft  = 'P9_13' 
-buttonDown  = 'P9_15'
+buttonDown  = 'P9_17'
 buttonUp    = 'P9_27'
 buttonRight = 'P8_17'
 
@@ -43,5 +43,5 @@ try:
         time.sleep(100)
         
 except KeyboardInterrupt:
-    print("Cleaning Up")
+    print("\nCleaning Up")
     GPIO.cleanup()

@@ -61,11 +61,11 @@ def main():
     GPIO.setup(right, GPIO.IN)
     GPIO.setup(clear, GPIO.IN)
     
-    GPIO.add_event_detect(up,   GPIO.BOTH, callback=updateBoard, bouncetime=500)
-    GPIO.add_event_detect(down, GPIO.BOTH, callback=updateBoard, bouncetime=500)
-    GPIO.add_event_detect(left, GPIO.BOTH, callback=updateBoard, bouncetime=500)
-    GPIO.add_event_detect(right,GPIO.BOTH, callback=updateBoard, bouncetime=500)
-    GPIO.add_event_detect(clear,GPIO.BOTH, callback=updateBoard, bouncetime=500)
+    GPIO.add_event_detect(up,   GPIO.BOTH, callback=updateBoard, bouncetime=250)
+    GPIO.add_event_detect(down, GPIO.BOTH, callback=updateBoard, bouncetime=250)
+    GPIO.add_event_detect(left, GPIO.BOTH, callback=updateBoard, bouncetime=250)
+    GPIO.add_event_detect(right,GPIO.BOTH, callback=updateBoard, bouncetime=250)
+    GPIO.add_event_detect(clear,GPIO.BOTH, callback=updateBoard, bouncetime=250)
     
     board[playerY][playerX] = 'P'
     
@@ -77,7 +77,7 @@ def main():
             time.sleep(100)
             
     except KeyboardInterrupt:
-        print("Cleaning Up")
+        print("\nCleaning Up")
         GPIO.cleanup()
         
 
