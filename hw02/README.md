@@ -35,3 +35,10 @@ Etch-a-sketch using buttons:
 	Modified last week's etch-a-sketch program to receive inputs from the buttons instead of
 	commands from the console. Buttons used the same GPIO pins as listed above. Run this new
 	version of the game using ./buttonEtch.py 
+
+## Prof. Yoder's comments
+
+Which program are your number for?  Bash, python, c?
+etch-a-sketch looks good.
+
+Grade:  7/10
