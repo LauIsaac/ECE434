@@ -12,4 +12,4 @@ Finished all required parts of HW03
 	Uses the alert pin on the TMP101 sensors to send an alarm 
 	should the temperature exceed a certain threshold
 
-	All programs to be run from the command line
+All programs to be run from the command line
