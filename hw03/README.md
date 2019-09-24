@@ -1,6 +1,6 @@
-HW03
+# HW03
 
-Finished all required parts of HW03
+## Finished all required parts of HW03
 
 	readTemp.sh
 		Shell script that reads temperature from both sensors, averages them, and displays it in Farenheit.
