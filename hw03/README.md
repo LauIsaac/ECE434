@@ -10,6 +10,7 @@ Finished all required parts of HW03
 	the rotary encoders and 8x8 LED matrix  
 ## tempAlarm.py
 	Uses the alert pin on the TMP101 sensors to send an alarm 
-	should the temperature exceed a certain threshold
+	should the temperature exceed a certain threshold.
+	Calls setup.sh to configure pins.
 
 All programs to be run from the command line
