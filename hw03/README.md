@@ -14,3 +14,9 @@ Finished all required parts of HW03
 	Calls setup.sh to configure pins.
 
 All programs to be run from the command line
+
+## Prof. Yoder's comments
+
+Looks good.  
+
+Grade:  10/10
