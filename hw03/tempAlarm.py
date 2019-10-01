@@ -37,8 +37,8 @@ bus = smbus.SMBus(2)
 address1 = 0x48
 address2 = 0x49
     
-bus.write_byte_data(address1, 3, 0x1C) 
-bus.write_byte_data(address1, 2, 0x1B) 
+bus.write_byte_data(address1, 3, 0x1C) #28C 
+bus.write_byte_data(address1, 2, 0x1B) #27C
 bus.write_byte_data(address1, 1, 0x84)
 bus.write_byte_data(address2, 3, 0x1C) 
 bus.write_byte_data(address2, 2, 0x1B) 
