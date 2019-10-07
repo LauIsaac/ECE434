@@ -20,3 +20,11 @@ Red's Nightmare Video:
 
 My name and a short message:
 ![Name](https://raw.githubusercontent.com/LauIsaac/ECE434/master/hw04/00100dPORTRAIT_00100_BURST20191001121758292_COVER.jpg)
+
+
+## Prof. Yoder's comments
+
+Nice pictures.  Memory map only had GPIO0, not the other GPIOs
+How fast could you toggle the GPIOs?
+
+Grade:  9/10
