@@ -1,4 +1,4 @@
-# Hw05
+# HW05
 
 ## Makefile
 Completed makefile from exercise instructions.
