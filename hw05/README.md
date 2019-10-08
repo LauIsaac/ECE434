@@ -1,9 +1,9 @@
-#Hw05
+# Hw05
 
-##Makefile
+## Makefile
 Completed makefile from exercise instructions.
 
-##Istalling kernel source
+## Installing kernel source
 Successfully built and installed kernel source
 
-##Cross-compiling
+## Cross-compiling
