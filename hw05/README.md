@@ -21,3 +21,8 @@ Successfully built and installed kernel source
 	This address (0x21030) is in our bss section
 	This address (0x21028) is in our data section
 
+## Kernel Modules
+Completed all examples in parts 1-3 for kernel modules
+
+Sucessfully interacted with button and LED circuit using kernel module from Derek Molloy	
+
