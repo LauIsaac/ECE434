@@ -26,3 +26,8 @@ Completed all examples in parts 1-3 for kernel modules
 
 Sucessfully interacted with button and LED circuit using kernel module from Derek Molloy	
 
+## Prof. Yoder's comments
+
+Looks good. 
+
+Grade:  10/10
