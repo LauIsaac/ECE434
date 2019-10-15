@@ -1,6 +1,7 @@
 # Homework 6
 
 ## Project idea
+Pictochat with Zach Forster and Brendan Mulholland
 
 ## Julia's Video
 1. National Instruments
