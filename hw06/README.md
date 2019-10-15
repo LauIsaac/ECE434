@@ -1,5 +1,5 @@
-## Homework 6
+# Homework 6
 
-# Project idea
+## Project idea
 
-# Julia's Video
+## Julia's Video
