@@ -17,5 +17,5 @@ Pictochat with Zach Forster and Brendan Mulholland
 9. Mainline is how non-RT systems handle interrupts
 10. The non-critical IRQ is currently running and the iterrupt will not be serv$
 11. The scheduler is forced to give the small program priority to call the task$
-                               [ Read 19 lines ]
+                               
 
