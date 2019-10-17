@@ -18,5 +18,5 @@ Pictochat with Zach Forster and Brendan Mulholland
 10. The non-critical IRQ is currently running and the iterrupt will not be serviced until the IRQ has finished or has run out of alloted time.
 11. The scheduler is forced to give the small program priority to call the task in the non-hardIRQ space.
 
-   
-
+## RT Kernel
+Non-RT kernel
