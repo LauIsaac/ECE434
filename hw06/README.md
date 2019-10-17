@@ -20,3 +20,7 @@ Pictochat with Zach Forster and Brendan Mulholland
 
 ## RT Kernel
 Non-RT kernel
+   real	1m40.198s
+   user	0m1.638s
+   sys	0m7.558s
+
