@@ -6,7 +6,7 @@ Pictochat with Zach Forster and Brendan Mulholland
 ## Julia's Video
 1. National Instruments
 2. PREEMPT_RT is a kernel patch to allow Linux to become a real-time OS
-3. Mixed criticality is running muliple operations some of which require RY and others that do not
+3. Mixed criticality is running muliple operations some of which require RT and others that do not
 4. Stack is usually shared between RT and non-RT applications which can cause unexpected behavior
 5. Latency between a trigger event and the process actually running
 6. Measures the latency after waking from a sleep
@@ -25,3 +25,8 @@ Non-RT kernel
       user	0m1.638s
       sys	0m7.558s
 
+## Prof. Yoder's comments
+
+Good answers.  Plots are missing.
+
+Grade:  7/10
