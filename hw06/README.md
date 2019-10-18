@@ -19,17 +19,25 @@ Pictochat with Zach Forster and Brendan Mulholland
 11. The scheduler is forced to give the small program priority to call the task in the non-hardIRQ space.
 
 ## RT Kernel
-Non-RT kernel
+Non-RT kernel (Under load)
    
-      real	1m40.198s
-      user	0m1.638s
-      sys	0m7.558s
+	real	1m40.198s
+	user	0m1.638s
+	sys	0m7.558s
 
-RT kernel
+(Forgot to run no load test before rebooting with RT kernel)
+
+RT kernel 
 
 	real	1m43.594s
 	user	0m0.595s
 	sys	0m3.979s
+
+RT kernel (Under load)
+	
+	real	1m40.252s
+	user	0m0.986s
+	sys	0m6.928s
 
 ## Prof. Yoder's comments
 
