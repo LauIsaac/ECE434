@@ -25,6 +25,12 @@ Non-RT kernel
       user	0m1.638s
       sys	0m7.558s
 
+RT kernel
+
+	real	1m43.594s
+	user	0m0.595s
+	sys	0m3.979s
+
 ## Prof. Yoder's comments
 
 Good answers.  Plots are missing.
