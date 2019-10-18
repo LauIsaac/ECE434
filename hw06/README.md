@@ -41,6 +41,8 @@ RT kernel (Under load)
 	
 ![Plot of RT vs non-RT timing](https://github.com/LauIsaac/ECE434/blob/master/hw06/out.png)
 
+RT plot clearly shows bounded latency, I continuously ran a make and make clean in another directory to act as a load. 
+
 ## Prof. Yoder's comments
 
 Good answers.  Plots are missing.
