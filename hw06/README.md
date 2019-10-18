@@ -38,6 +38,8 @@ RT kernel (Under load)
 	real	1m40.252s
 	user	0m0.986s
 	sys	0m6.928s
+	
+![Plot of RT vs non-RT](https://github.com/LauIsaac/ECE434/blob/master/hw06/out.png)
 
 ## Prof. Yoder's comments
 
