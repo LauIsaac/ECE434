@@ -3,6 +3,7 @@
 ## Team Project Wiki
 
 ## Blynk Example
+Completed Blynk example to control LED
 	    ___  __          __
 	   / _ )/ /_ _____  / /__
 	  / _  / / // / _ \/  '_/
@@ -26,6 +27,7 @@
 	V10:  0
 	
 ## Blynk Slider
+Completed slider to control LED on breadboard
 
 	    ___  __          __
 	   / _ )/ /_ _____  / /__
