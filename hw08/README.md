@@ -19,3 +19,4 @@ Toggling GPIO at max frequency: 12.5 MHz (80ns period)
 ![PRUGPIO](https://github.com/LauIsaac/ECE434/blob/master/hw08/HW08PWMGen.png)
 
 Using PRU to toggle GPIO
+We see significantly less jitter compared to the native GPIO
