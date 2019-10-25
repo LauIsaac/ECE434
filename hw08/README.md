@@ -15,3 +15,7 @@ Stops the PRU
 ![TogglingGPIO](https://github.com/LauIsaac/ECE434/blob/master/hw08/ToggleGPIOHW08.png)
 
 Toggling GPIO at max frequency: 12.5 MHz (80ns period)
+
+![PRUGPIO](https://github.com/LauIsaac/ECE434/blob/master/hw08/HW08PWMGen.png)
+
+Using PRU to toggle GPIO
