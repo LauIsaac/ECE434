@@ -23,3 +23,6 @@ We see significantly less jitter compared to the native GPIO
 
 Toggling PWM, we see a frequency of 327kHz with 4 channels (only 2 are show since measurements were taken with a 2 channel scope)
 ![4PWM](https://github.com/LauIsaac/ECE434/blob/master/hw08/4PWM.png)
+
+Sending reading input and output, we see a fairly consistent delay of ~26ns
+![I/O](https://github.com/LauIsaac/ECE434/blob/master/hw08/ReadInput.png)
